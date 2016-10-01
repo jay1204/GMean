@@ -1,5 +1,5 @@
 # GMean
-Find K for Unsupervised Learning Classifier K-mean Method
+This project is to detect the appropriate number of clusters for K-mean method using Statistics Hypothesis Test and Gaussian Distribution.
 
 The Gmeans.R is the G-Means algorithm I implemented.
 
